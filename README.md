@@ -35,3 +35,5 @@ Add a run configuration of type `Python tests -> pytest` with the following
 settings:
 
 ![PyCharm Test Config](pycharm-test-config.png)
+
+rudi
